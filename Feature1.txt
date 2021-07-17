@@ -1,2 +1,3 @@
 Added in  Feature 1
 Added Another Line for another commit
+Changes made in hotfix.
